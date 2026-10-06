@@ -15,7 +15,7 @@ that appeared in the GAP Forum. (For recent developments see the
 [Release history](https://github.com/gap-system/gap/blob/master/CHANGES.md).)
 
 - Preface for
-  [GAP 2.4](preface_2.4.html), the first publically
+  [GAP 2.4](preface_2.4.html), the first publicly
   released version of GAP  (JN, December 1988)
 - Preface for [GAP 3.1](preface_3.1.html)  (JN, March 1991)
 - From the preface for [GAP 3.2](preface_3.2.html)
